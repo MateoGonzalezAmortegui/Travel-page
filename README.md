@@ -5,7 +5,7 @@
 - ### [Responsive design](#mobile)
 - ### Dark Mode
 
-View page => https://mateogonzalezamortegui.github.io/Travel-page/
+View page => https://mateogonzalezamortegui.github.io/Travel-page/index.html
 
 ## Desktop View: <a name="desk"></a>
 
