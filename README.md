@@ -1,6 +1,6 @@
 <a name="top"></a>
 # 🚀 TRAVEL PAGE
-### My blog with layout HTML, CSS/SASS and using to Framework like Tailwind, was create for be a web page interactive with all information about the countries or place for visit!!
+### My blog with layout HTML, CSS and using to Framework like Tailwind, was create for be a web page interactive with all information about the countries or place for visit!!
 ### Was implementing so that was:
 - ### [Responsive design](#mobile)
 - ### Dark Mode
