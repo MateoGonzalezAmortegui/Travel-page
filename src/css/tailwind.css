@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    @apply w-48 h-64 shadow-lg rounded-lg flex-none
+}
+.efect_button{
+    @apply transition-all duration-500 ease-in-out hover:bg-red-600
+    hover:text-white transform hover:-translate-y-1 
+    hover:scale-110
+}
+.efect_card{
+    @apply transform transition-all hover:-translate-y-4 hover:shadow-xl hover:shadow-slate-600 
+}
+.efect_input{
+    @apply transition-all duration-300 focus-within:shadow-sm focus:ring-2 focus:w-10/12
+    hover:shadow-lg hover:shadow-blue-400
+}
+.cardTittle{
+    @apply text-xl px-8 pt-8 pb-2 font-semibold text-white
+}
